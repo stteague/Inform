@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x555f04375750" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7</generator>
+  <activeNode nodeId="node-0x7f829c11abf0"/>
+  <item nodeId="node-0x555f04375750">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+A young man stands in his bedroom. It just so happens that today, the 13th of April, 2009, is this young man&apos;s birthday. Though it was thirteen years ago he was given life, it is only today he will be given a name!
+
+What will the name of this young man be? 
+
+What is your name? &gt; </result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x555f043758d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x555f043758d0">
+    <command xml:space="preserve">take laundry</command>
+    <result xml:space="preserve">Hi, take laundry!
+
+
+Fancy Cat
+An Interactive Fiction by Scott and Ash
+Release 1 / Serial number 220511 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Bedroom
+You, take laundry, awaken on the floor and clutch the fibers of the carpet to keep from spinning so much with the room. This is one messy room. This is your room, you remember as you look around. You stand up, unsure as to whether you can avoid falling back down. You see there is a bed you must have missed last night. You should definitely pick up the pile of dirty laundry that sits on the bed.
+
+You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x555f04375a50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x555f04375a50">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x555f04375bd0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x555f04375bd0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom
+You, take laundry, awaken on the floor and clutch the fibers of the carpet to keep from spinning so much with the room. This is one messy room. This is your room, you remember as you look around. You stand up, unsure as to whether you can avoid falling back down. You see there is a bed you must have missed last night. You should definitely pick up the pile of dirty laundry that sits on the bed.
+
+You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x555f04375d50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x555f04375d50">
+    <command xml:space="preserve">get Car Key</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x555f04375ed0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x555f04375ed0">
+    <command xml:space="preserve">inv</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x555f049e6d60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x555f049e6d60">
+    <command xml:space="preserve">get laundry</command>
+    <result xml:space="preserve">You found the car key! It would be a good idea to pick that up.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x555f049e6ee0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x555f049e6ee0">
+    <command xml:space="preserve">get key</command>
+    <result xml:space="preserve">You grab the car key.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f829c11a170"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f829c11a170">
+    <command xml:space="preserve">get laundry</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f829c11a2f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f829c11a2f0">
+    <command xml:space="preserve">go through door</command>
+    <result xml:space="preserve">(first opening the bedroom door)
+
+kitchen
+This is a little less messy. Eat something. You&apos;ll need the strength.
+
+You can see a bedroom door, a Front Door and a table (on which is a sandwich) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f829c11a470"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f829c11a470">
+    <command xml:space="preserve">eat sandwich</command>
+    <result xml:space="preserve">(first taking the sandwich)
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f829c11a5f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f829c11a5f0">
+    <command xml:space="preserve">go out</command>
+    <result xml:space="preserve">(first opening the Front Door)
+
+front yard
+The sun is blinding, the grass is green, and the angry mob is holding signs and yelling. It sounds like they are calling for the resignation of some jerk named take laundry!
+
+You can see a Front Door here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f829c11a770"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f829c11a770">
+    <command xml:space="preserve">go in</command>
+    <result xml:space="preserve">
+kitchen
+This is a little less messy. Eat something. You&apos;ll need the strength.
+
+You can see a Front Door, a bedroom door and a table here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f829c11a8f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f829c11a8f0">
+    <command xml:space="preserve">close door</command>
+    <result xml:space="preserve">Which do you mean, the Front Door or the bedroom door?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f829c11aa70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f829c11aa70">
+    <command xml:space="preserve">close front door</command>
+    <result xml:space="preserve">You close the Front Door.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x7f829c11abf0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x7f829c11abf0">
+    <command xml:space="preserve">go out</command>
+    <result xml:space="preserve">(first opening the Front Door)
+
+front yard
+The sun is blinding, the grass is green, and the angry mob is holding signs and yelling. It sounds like they are calling for the resignation of some jerk named take laundry!
+
+You can see a Front Door here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
