@@ -56,6 +56,7 @@ The bedroom door is a door. The bedroom door is west of the bedroom and east of 
 The Kitchen is a room. "This is a little less messy. Eat something. You'll need the strength."
 
 The table is in the kitchen. The sandwich is on the table. The sandwich is edible.
+The description of the sandwich is "This looks like a great sandwich you made last night if you don't say so yourself. Your mouth waters."
 
 After eating the sandwich:
 	Increase the score by 1;
