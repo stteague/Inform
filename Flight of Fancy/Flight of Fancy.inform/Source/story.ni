@@ -1,6 +1,9 @@
 "Fancy Cat" by "Scott and Ash"
+version 0.0.2
 
 Part 1 - Collecting Name
+
+[Release along with a website.]
 
 Use scoring;
 
@@ -53,7 +56,7 @@ After taking the Car Key:
 
 The bedroom door is a door. The bedroom door is west of the bedroom and east of the kitchen.
 
-The Kitchen is a room. "This is a little less messy. Eat something. You'll need the strength."
+The Kitchen is a room. "You haven't made too much of a mess in here. Eat something. You'll need the strength. Exits are North to go to the living room or out the back door."
 
 The table is in the kitchen. The sandwich is on the table. The sandwich is edible.
 The description of the sandwich is "This looks like a great sandwich you made last night if you don't say so yourself. Your mouth waters."
@@ -61,11 +64,18 @@ The description of the sandwich is "This looks like a great sandwich you made la
 After eating the sandwich:
 	Increase the score by 1;
 
-The Front Door is a door, outside from the kitchen and inside from the front yard. The Front Door can be locked or unlocked. The Front Door is lockable.The Front Door is unlocked.
+The Living room is north of the Kitchen. "This is your favorite place to relax and unwind. There is the front door leading outside and a door leading to the kitchen on the south end."
+
+The Front Door is a door, outside from the Living room and inside from the front yard. The Front Door can be locked or unlocked. The Front Door is lockable.The Front Door is unlocked.
 
 After entering The Front Yard:
 	Now the Front Door is closed;
 	Now the Front Door is locked.
 	
-The Front Yard is a room. "The sun is blinding, the grass is green, and the angry mob is holding signs and yelling. It sounds like they are calling for the resignation of some jerk named [player's name]!"
+The Front Yard is a room. "The sun is blinding, the grass is green, and the angry mob is angry. They appear to be holding signs and yelling. It sounds like they are calling for the resignation of some jerk named [player's name]!"
 
+The Back Door is a door, outside from the kitchen and inside from the back yard.
+
+The Storm Grate is a door, down from the Back yard and up from the Sewer entrance.
+
+The Sewer Entrance is a room. "It is pitch black in here. You are likely to be eaten by a grue!"
