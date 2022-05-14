@@ -50,7 +50,7 @@ The Car Key is an object. The car key can be found or lost. The car key is lost.
 	say "You found the car key! It would be a good idea to pick that up.";
 	move Car Key to the bed 
 
-After taking the Car Key:
+After taking the Car Key for the first time:
 	say "You grab the car key.";
 	Increase the score by 1;
 
@@ -61,7 +61,16 @@ The Kitchen is a room. "You haven't made too much of a mess in here. Eat somethi
 The table is in the kitchen. The sandwich is on the table. The sandwich is edible.
 The description of the sandwich is "This looks like a great sandwich you made last night if you don't say so yourself. Your mouth waters."
 
+The Fully Automatic Battle Spork is an object. The Spork can be found or lost. The Spork is lost. 
+
 After eating the sandwich:
+	now Spork is found;
+	now spork is on table;
+	Say "In this sandwich you have found your Fully Automatic Assult Battle Spork. You are glad that you remembered to hide it so well. Many governments are trying to ban this type of spork since it is fully automatic and has laser sights for greater accuracy. You should consider carrying it at all times.";
+	Increase the score by 1;
+	
+After taking the spork for the first time:
+	say "Your battle spork is fully operational and loaded.";
 	Increase the score by 1;
 
 The Living room is north of the Kitchen. "This is your favorite place to relax and unwind. There is the front door leading outside and a door leading to the kitchen on the south end."
