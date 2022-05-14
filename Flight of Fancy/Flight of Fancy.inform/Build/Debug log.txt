@@ -1,12 +1,12 @@
 Debugging log of Inform 7
-Inform called as: /usr/libexec/ni --release --internal /usr/share/inform7/Internal --format=ulx --project /home/scott/Projects/Inform/Flight of Fancy/Flight of Fancy.inform
+Inform called as: /app/libexec/gnome-inform7/ni -internal /app/share/gnome-inform7 -format=ulx -project /home/scott/Projects/Inform/Flight of Fancy/Flight of Fancy.inform -release
 Found language bundle 'English' (built in)
 Found language bundle 'French' (built in)
 Found language bundle 'German' (built in)
 Found language bundle 'Italian' (built in)
 Found language bundle 'Spanish' (built in)
 Found language bundle 'Swedish' (built in)
-Reading language definition from </usr/share/inform7/Internal/Languages/English/Syntax.preform>
+Reading language definition from </app/share/gnome-inform7/Languages/English/Syntax.preform>
 720 declarations read (14183 words)
 
 
@@ -175,7 +175,7 @@ Phase XIII ... Compilation now complete
 -----------------------------------------------------
 
 Total of 102 files written as streams.
-CPU time: 29 centiseconds
+CPU time: 41 centiseconds
 
 
 That concludes the debugging log from this run of Inform.
