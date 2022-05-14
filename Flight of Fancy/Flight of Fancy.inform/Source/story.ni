@@ -36,7 +36,7 @@ Check locking keylessly:
 
 Part 2 - The Start
 
-The Bedroom is a room. "You, [player's name], awaken on the floor and clutch the fibers of the carpet to keep from spinning so much with the room. This is one messy room. This is your room, you remember as you look around. You stand up, unsure as to whether you can avoid falling back down. You see there is a bed you must have missed last night. You should definitely pick up the pile of dirty laundry that sits on the bed."
+The Bedroom is a room. "You, [player's name], awaken on the floor and clutch the fibers of the carpet to keep from spinning so much with the room. This is one messy room. This is your room, you remember as you look around. You stand up, unsure as to whether you can avoid falling back down. You see there is a bed you must have missed last night. You should definitely pick up the pile of dirty laundry that sits on the bed. The only exit is west."
 The Bed is an object. The Bed is in The Bedroom. 
 The Laundry Pile is on The Bed.
 
