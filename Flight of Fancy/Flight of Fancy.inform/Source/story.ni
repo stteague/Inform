@@ -1,7 +1,7 @@
 "Fancy Cat" by "Scott and Ash"
 version 0.0.2
 
-Part 1 - Collecting Name
+Part 1 - Collecting Name and Prepairinf
 
 [Release along with a website.]
 
@@ -43,7 +43,9 @@ The Bedroom is a room. "You, [player's name], awaken on the floor and clutch the
 The Bed is an object. The Bed is in The Bedroom. 
 The Laundry Pile is on The Bed.
 
-The Cell Phone is an object. The Cell Phone can be found or lost. The Cell Phone is lost.
+The Cell Phone is a device. The Cell Phone can be found or lost. The Cell Phone is lost.
+Carry out switching on the Cell Phone: now the noun is lit. 
+Carry out switching off the Cell Phone: now the noun is unlit.
 
  Instead of taking the Laundry Pile when the Cell Phone is lost:
 	now Cell Phone is found;
@@ -84,8 +86,12 @@ After entering The Front Yard:
 	
 The Front Yard is a room. "The sun is blinding, the grass is green, and the angry mob is angry. They appear to be holding signs and yelling. It sounds like they are calling for the resignation of some jerk named [player's name]!"
 
-The Back Door is a door, south from the kitchen and north from the Back Yard. It is locked.
+The Back Door is a door, south from the kitchen and north from the Back Yard. It is unlocked.
 
 The Storm Grate is a door, down from the Back yard and up from the Sewer entrance.
 
-The Sewer Entrance is a room. "It is pitch black in here. You are likely to be eaten by a grue!"
+The Sewer Entrance is a room. The sewer entrance is dark. "You have made it down the surprisingly long ladder into the sewer and with your cell phone you can see that this tunnel goes off in the north and south directions. There is quite a powerful smell eminating from every inch of this place, but it beats being torn to death by the inexplicably angry mob in front of your house."
+
+[--==----------====----____WORK IN PROGRESS SIGN____----====----------==--]
+The Work In Progress sign is an object ."You see a sign that says: WORK IN PROGRESS - This game is a work in progress and you have reached what is for now the end; Congratulations on making it this far."
+The work In Progress Sign is here.
