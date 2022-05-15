@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x5606c19d8780" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x56033eab3710" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Inform 7</generator>
-  <activeNode nodeId="node-0x7fda6c10a780"/>
-  <item nodeId="node-0x5606c19d8780">
+  <activeNode nodeId="node-0x56033eab3710"/>
+  <item nodeId="node-0x56033eab3710">
     <command xml:space="preserve">Flight of Fancy</command>
     <result xml:space="preserve">
 
@@ -18,14 +18,14 @@ What is your name? &gt; </result>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c19d8900"/>
-      <child nodeId="node-0x5606c2005130"/>
-      <child nodeId="node-0x5606c2059a90"/>
-      <child nodeId="node-0x7fda700cf760"/>
-      <child nodeId="node-0x7fda6c10a180"/>
+      <child nodeId="node-0x56033eab3890"/>
+      <child nodeId="node-0x56033f10b120"/>
+      <child nodeId="node-0x56033f174a10"/>
+      <child nodeId="node-0x56033f174b90"/>
+      <child nodeId="node-0x56033f1dd1b0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c19d8900">
+  <item nodeId="node-0x56033eab3890">
     <command xml:space="preserve">take laundry</command>
     <result xml:space="preserve">Hi, take laundry!
 
@@ -46,10 +46,10 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c19d8a80"/>
+      <child nodeId="node-0x56033eab3a10"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c19d8a80">
+  <item nodeId="node-0x56033eab3a10">
     <command xml:space="preserve">inv</command>
     <result xml:space="preserve">You are carrying nothing.
 
@@ -60,10 +60,10 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c19d8c00"/>
+      <child nodeId="node-0x56033eab3b90"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c19d8c00">
+  <item nodeId="node-0x56033eab3b90">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Bedroom
 You, take laundry, awaken on the floor and clutch the fibers of the carpet to keep from spinning so much with the room. This is one messy room. This is your room, you remember as you look around. You stand up, unsure as to whether you can avoid falling back down. You see there is a bed you must have missed last night. You should definitely pick up the pile of dirty laundry that sits on the bed.
@@ -77,10 +77,10 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c19d8d80"/>
+      <child nodeId="node-0x56033eab3d10"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c19d8d80">
+  <item nodeId="node-0x56033eab3d10">
     <command xml:space="preserve">get Car Key</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -91,10 +91,10 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c19d8f00"/>
+      <child nodeId="node-0x56033eab3e90"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c19d8f00">
+  <item nodeId="node-0x56033eab3e90">
     <command xml:space="preserve">inv</command>
     <result xml:space="preserve">You are carrying nothing.
 
@@ -105,10 +105,10 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c1fe81c0"/>
+      <child nodeId="node-0x56033f0e3170"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c1fe81c0">
+  <item nodeId="node-0x56033f0e3170">
     <command xml:space="preserve">get laundry</command>
     <result xml:space="preserve">You found the car key! It would be a good idea to pick that up.
 
@@ -119,10 +119,10 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c1fe8340"/>
+      <child nodeId="node-0x56033f0e32f0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c1fe8340">
+  <item nodeId="node-0x56033f0e32f0">
     <command xml:space="preserve">get key</command>
     <result xml:space="preserve">You grab the car key.
 
@@ -135,10 +135,10 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c1fe84c0"/>
+      <child nodeId="node-0x56033f0e3470"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c1fe84c0">
+  <item nodeId="node-0x56033f0e3470">
     <command xml:space="preserve">get laundry</command>
     <result xml:space="preserve">Taken.
 
@@ -149,10 +149,10 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c1fe8640"/>
+      <child nodeId="node-0x56033f0e35f0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c1fe8640">
+  <item nodeId="node-0x56033f0e35f0">
     <command xml:space="preserve">go through door</command>
     <result xml:space="preserve">(first opening the bedroom door)
 
@@ -168,10 +168,10 @@ You can see a bedroom door, a Front Door and a table (on which is a sandwich) he
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c1fe87c0"/>
+      <child nodeId="node-0x56033f0e3770"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c1fe87c0">
+  <item nodeId="node-0x56033f0e3770">
     <command xml:space="preserve">eat sandwich</command>
     <result xml:space="preserve">(first taking the sandwich)
 [Your score has just gone up by one point.]
@@ -183,10 +183,10 @@ You can see a bedroom door, a Front Door and a table (on which is a sandwich) he
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c1fe8940"/>
+      <child nodeId="node-0x56033f0e38f0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c1fe8940">
+  <item nodeId="node-0x56033f0e38f0">
     <command xml:space="preserve">go out</command>
     <result xml:space="preserve">(first opening the Front Door)
 
@@ -202,10 +202,10 @@ You can see a Front Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c1fe8ac0"/>
+      <child nodeId="node-0x56033f0e3a70"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c1fe8ac0">
+  <item nodeId="node-0x56033f0e3a70">
     <command xml:space="preserve">go in</command>
     <result xml:space="preserve">
 kitchen
@@ -220,10 +220,10 @@ You can see a Front Door, a bedroom door and a table here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c1fe8c40"/>
+      <child nodeId="node-0x56033f0e3bf0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c1fe8c40">
+  <item nodeId="node-0x56033f0e3bf0">
     <command xml:space="preserve">close door</command>
     <result xml:space="preserve">Which do you mean, the Front Door or the bedroom door?
 
@@ -234,10 +234,10 @@ You can see a Front Door, a bedroom door and a table here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c1fe8dc0"/>
+      <child nodeId="node-0x56033f0e3d70"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c1fe8dc0">
+  <item nodeId="node-0x56033f0e3d70">
     <command xml:space="preserve">close front door</command>
     <result xml:space="preserve">You close the Front Door.
 
@@ -248,10 +248,10 @@ You can see a Front Door, a bedroom door and a table here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c1fe8f40"/>
+      <child nodeId="node-0x56033f0e3ef0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c1fe8f40">
+  <item nodeId="node-0x56033f0e3ef0">
     <command xml:space="preserve">go out</command>
     <result xml:space="preserve">(first opening the Front Door)
 
@@ -267,7 +267,7 @@ You can see a Front Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x5606c2005130">
+  <item nodeId="node-0x56033f10b120">
     <command xml:space="preserve">yo</command>
     <result xml:space="preserve">Hi, yo!
 
@@ -288,11 +288,11 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c20052b0"/>
-      <child nodeId="node-0x5606c2005730"/>
+      <child nodeId="node-0x56033f10b2a0"/>
+      <child nodeId="node-0x56033f10b720"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c20052b0">
+  <item nodeId="node-0x56033f10b2a0">
     <command xml:space="preserve">go through door</command>
     <result xml:space="preserve">(first opening the bedroom door)
 
@@ -308,10 +308,10 @@ You can see a bedroom door, a Front Door and a table (on which is a sandwich) he
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2005430"/>
+      <child nodeId="node-0x56033f10b420"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2005430">
+  <item nodeId="node-0x56033f10b420">
     <command xml:space="preserve">x table</command>
     <result xml:space="preserve">On the table is a sandwich.
 
@@ -322,10 +322,10 @@ You can see a bedroom door, a Front Door and a table (on which is a sandwich) he
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c20055b0"/>
+      <child nodeId="node-0x56033f10b5a0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c20055b0">
+  <item nodeId="node-0x56033f10b5a0">
     <command xml:space="preserve">x sandwich</command>
     <result xml:space="preserve">This looks like a great sandwich you made last night if you don&apos;t say so yourself. Your mouth waters.
 
@@ -336,7 +336,7 @@ You can see a bedroom door, a Front Door and a table (on which is a sandwich) he
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x5606c2005730">
+  <item nodeId="node-0x56033f10b720">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(first opening the bedroom door)
 
@@ -352,10 +352,10 @@ You can see a bedroom door, a Back Door and a table (on which is a sandwich) her
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c20058b0"/>
+      <child nodeId="node-0x56033f10b8a0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c20058b0">
+  <item nodeId="node-0x56033f10b8a0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Living room
@@ -370,10 +370,10 @@ You can see a Front Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2005a30"/>
+      <child nodeId="node-0x56033f10ba20"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2005a30">
+  <item nodeId="node-0x56033f10ba20">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -384,10 +384,10 @@ You can see a Front Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2005bb0"/>
+      <child nodeId="node-0x56033f10bba0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2005bb0">
+  <item nodeId="node-0x56033f10bba0">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">(first opening the Front Door)
 
@@ -403,10 +403,10 @@ You can see a Front Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2005d30"/>
+      <child nodeId="node-0x56033f10bd20"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2005d30">
+  <item nodeId="node-0x56033f10bd20">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -417,10 +417,10 @@ You can see a Front Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2005eb0"/>
+      <child nodeId="node-0x56033f10bea0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2005eb0">
+  <item nodeId="node-0x56033f10bea0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -431,10 +431,10 @@ You can see a Front Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c203d160"/>
+      <child nodeId="node-0x56033f14b1b0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c203d160">
+  <item nodeId="node-0x56033f14b1b0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -445,10 +445,10 @@ You can see a Front Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c203d2e0"/>
+      <child nodeId="node-0x56033f14b330"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c203d2e0">
+  <item nodeId="node-0x56033f14b330">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -459,10 +459,10 @@ You can see a Front Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c203d460"/>
+      <child nodeId="node-0x56033f14b4b0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c203d460">
+  <item nodeId="node-0x56033f14b4b0">
     <command xml:space="preserve">in</command>
     <result xml:space="preserve">
 Living room
@@ -477,10 +477,10 @@ You can see a Front Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c203d5e0"/>
+      <child nodeId="node-0x56033f14b630"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c203d5e0">
+  <item nodeId="node-0x56033f14b630">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 kitchen
@@ -495,10 +495,10 @@ You can see a bedroom door, a Back Door and a table (on which is a sandwich) her
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c203d760"/>
+      <child nodeId="node-0x56033f14b7b0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c203d760">
+  <item nodeId="node-0x56033f14b7b0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -509,10 +509,10 @@ You can see a bedroom door, a Back Door and a table (on which is a sandwich) her
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c203d8e0"/>
+      <child nodeId="node-0x56033f14b930"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c203d8e0">
+  <item nodeId="node-0x56033f14b930">
     <command xml:space="preserve">out</command>
     <result xml:space="preserve">(first opening the Back Door)
 
@@ -526,10 +526,10 @@ You can see a Back Door and a Storm Grate here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c203da60"/>
+      <child nodeId="node-0x56033f14bab0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c203da60">
+  <item nodeId="node-0x56033f14bab0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -540,10 +540,10 @@ You can see a Back Door and a Storm Grate here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c203dbe0"/>
+      <child nodeId="node-0x56033f14bc30"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c203dbe0">
+  <item nodeId="node-0x56033f14bc30">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -554,10 +554,10 @@ You can see a Back Door and a Storm Grate here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c203dd60"/>
+      <child nodeId="node-0x56033f14bdb0"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c203dd60">
+  <item nodeId="node-0x56033f14bdb0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -568,10 +568,10 @@ You can see a Back Door and a Storm Grate here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c203dee0"/>
+      <child nodeId="node-0x56033f14bf30"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c203dee0">
+  <item nodeId="node-0x56033f14bf30">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -582,10 +582,10 @@ You can see a Back Door and a Storm Grate here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2059190"/>
+      <child nodeId="node-0x56033f174110"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2059190">
+  <item nodeId="node-0x56033f174110">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">back yard
 You can see a Back Door and a Storm Grate here.
@@ -597,10 +597,10 @@ You can see a Back Door and a Storm Grate here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2059310"/>
+      <child nodeId="node-0x56033f174290"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2059310">
+  <item nodeId="node-0x56033f174290">
     <command xml:space="preserve">x grate</command>
     <result xml:space="preserve">You see nothing special about the Storm Grate.
 
@@ -611,10 +611,10 @@ You can see a Back Door and a Storm Grate here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2059490"/>
+      <child nodeId="node-0x56033f174410"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2059490">
+  <item nodeId="node-0x56033f174410">
     <command xml:space="preserve">lift grate</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -625,10 +625,10 @@ You can see a Back Door and a Storm Grate here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2059610"/>
+      <child nodeId="node-0x56033f174590"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2059610">
+  <item nodeId="node-0x56033f174590">
     <command xml:space="preserve">open grate</command>
     <result xml:space="preserve">You open the Storm Grate.
 
@@ -639,10 +639,10 @@ You can see a Back Door and a Storm Grate here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2059790"/>
+      <child nodeId="node-0x56033f174710"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2059790">
+  <item nodeId="node-0x56033f174710">
     <command xml:space="preserve">down</command>
     <result xml:space="preserve">
 Sewer entrance
@@ -657,10 +657,10 @@ You can see a Storm Grate here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x5606c2059910"/>
+      <child nodeId="node-0x56033f174890"/>
     </children>
   </item>
-  <item nodeId="node-0x5606c2059910">
+  <item nodeId="node-0x56033f174890">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">
 back yard
@@ -673,7 +673,7 @@ You can see a Storm Grate and a Back Door here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x5606c2059a90">
+  <item nodeId="node-0x56033f174a10">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Hi, l!
 
@@ -694,7 +694,7 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x7fda700cf760">
+  <item nodeId="node-0x56033f174b90">
     <command xml:space="preserve">scott</command>
     <result xml:space="preserve">Hi, scott!
 
@@ -711,19 +711,20 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>NO</played>
-    <changed>YES</changed>
+    <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fda700cf8e0"/>
+      <child nodeId="node-0x56033f174d10"/>
+      <child nodeId="node-0x56033f1b4d30"/>
     </children>
   </item>
-  <item nodeId="node-0x7fda700cf8e0">
+  <item nodeId="node-0x56033f174d10">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(first opening the bedroom door)
 
 kitchen
-You haven&apos;t made too much of a mess in here. Eat something. You&apos;ll need the strength. Exits are North to go to the living room or out the back door.
+You haven&apos;t made too much of a mess in here. Eat something. You&apos;ll need the strength. Exits are North to go to the living room or south to the back yard.
 
 You can see a bedroom door, a Back Door and a table (on which is a sandwich) here.
 
@@ -734,10 +735,11 @@ You can see a bedroom door, a Back Door and a table (on which is a sandwich) her
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fda700cfa60"/>
+      <child nodeId="node-0x56033f174e90"/>
+      <child nodeId="node-0x56033f1b45b0"/>
     </children>
   </item>
-  <item nodeId="node-0x7fda700cfa60">
+  <item nodeId="node-0x56033f174e90">
     <command xml:space="preserve">take sandwich</command>
     <result xml:space="preserve">Taken.
 
@@ -748,10 +750,10 @@ You can see a bedroom door, a Back Door and a table (on which is a sandwich) her
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fda700cfbe0"/>
+      <child nodeId="node-0x56033f1b4130"/>
     </children>
   </item>
-  <item nodeId="node-0x7fda700cfbe0">
+  <item nodeId="node-0x56033f1b4130">
     <command xml:space="preserve">eat sandwich</command>
     <result xml:space="preserve">In this sandwich you have found your Fully Automatic Assult Battle Spork. You are glad that you remembered to hide it so well. Many governments are trying to ban this type of spork since it is fully automatic and has laser sights for greater accuracy. You should consider carrying it at all times.
 
@@ -764,10 +766,10 @@ You can see a bedroom door, a Back Door and a table (on which is a sandwich) her
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fda700cfd60"/>
+      <child nodeId="node-0x56033f1b42b0"/>
     </children>
   </item>
-  <item nodeId="node-0x7fda700cfd60">
+  <item nodeId="node-0x56033f1b42b0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">kitchen
 You haven&apos;t made too much of a mess in here. Eat something. You&apos;ll need the strength. Exits are North to go to the living room or out the back door.
@@ -781,10 +783,10 @@ You can see a bedroom door, a Back Door and a table here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fda700cfee0"/>
+      <child nodeId="node-0x56033f1b4430"/>
     </children>
   </item>
-  <item nodeId="node-0x7fda700cfee0">
+  <item nodeId="node-0x56033f1b4430">
     <command xml:space="preserve">get spork</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -795,7 +797,106 @@ You can see a bedroom door, a Back Door and a table here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x7fda6c10a180">
+  <item nodeId="node-0x56033f1b45b0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the Back Door)
+It seems to be locked.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56033f1b4730"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56033f1b4730">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the Back Door)
+It seems to be locked.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56033f1b48b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56033f1b48b0">
+    <command xml:space="preserve">unlock back door</command>
+    <result xml:space="preserve">What do you want to unlock the Back Door with?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56033f1b4a30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56033f1b4a30">
+    <command xml:space="preserve">phone</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56033f1b4bb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56033f1b4bb0">
+    <command xml:space="preserve">phone</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56033f1b4d30">
+    <command xml:space="preserve">get laundry</command>
+    <result xml:space="preserve">You found your Cell Phone! It would be a good idea to pick that up.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x56033f1b4eb0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x56033f1b4eb0">
+    <command xml:space="preserve">get cell phone</command>
+    <result xml:space="preserve">You grab the cell phone.  You realize that you don&apos;t remember the lock password. Until you remember the passcode you can only use the flashlight or call emergency services with this thing. It still just seems absolutely vital to keep it on you.
+
+
+  ... In fact there are many things you can&apos;t remember right now...
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x56033f1dd1b0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Hi, s!
 
@@ -811,15 +912,15 @@ You can see a bedroom door and a Bed (on which is a Laundry Pile) here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fda6c10a300"/>
+      <child nodeId="node-0x56033f1dd330"/>
     </children>
   </item>
-  <item nodeId="node-0x7fda6c10a300">
+  <item nodeId="node-0x56033f1dd330">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">(first opening the bedroom door)
 
@@ -830,15 +931,15 @@ You can see a bedroom door, a Back Door and a table (on which is a sandwich) her
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fda6c10a480"/>
+      <child nodeId="node-0x56033f1dd4b0"/>
     </children>
   </item>
-  <item nodeId="node-0x7fda6c10a480">
+  <item nodeId="node-0x56033f1dd4b0">
     <command xml:space="preserve">eat sandwich</command>
     <result xml:space="preserve">(first taking the sandwich)
 In this sandwich you have found your Fully Automatic Assult Battle Spork. You are glad that you remembered to hide it so well. Many governments are trying to ban this type of spork since it is fully automatic and has laser sights for greater accuracy. You should consider carrying it at all times.
@@ -847,15 +948,15 @@ In this sandwich you have found your Fully Automatic Assult Battle Spork. You ar
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fda6c10a600"/>
+      <child nodeId="node-0x56033f1dd630"/>
     </children>
   </item>
-  <item nodeId="node-0x7fda6c10a600">
+  <item nodeId="node-0x56033f1dd630">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">kitchen
 You haven&apos;t made too much of a mess in here. Eat something. You&apos;ll need the strength. Exits are North to go to the living room or out the back door.
@@ -864,15 +965,15 @@ You can see a bedroom door, a Back Door and a table (on which is a Fully Automat
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x7fda6c10a780"/>
+      <child nodeId="node-0x56033f1dd7b0"/>
     </children>
   </item>
-  <item nodeId="node-0x7fda6c10a780">
+  <item nodeId="node-0x56033f1dd7b0">
     <command xml:space="preserve">get fully automatic battle spork</command>
     <result xml:space="preserve">Your battle spork is fully operational and loaded.
 
@@ -880,7 +981,7 @@ You can see a bedroom door, a Back Door and a table (on which is a Fully Automat
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
